@@ -152,3 +152,10 @@ python app.py
 * CSV files are created automatically
 * Files are saved in the current directory unless another path is used
 * All interactions are done through the console
+
+---
+
+
+## FlowChart
+
+<img width="2288" height="1301" alt="image" src="https://github.com/user-attachments/assets/6a494a3d-981e-4ea0-b10b-d9a2e8a345fd" />
